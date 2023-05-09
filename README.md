@@ -2,9 +2,8 @@
 Econo App is a mobile application built using the Flutter framework. It allows users to see documents.
 
 ## Features
-- Login 
-- User signup
-- List of documents
+- User signin and signup using Firebase Authentication
+- List of documents from Cloud Firestore
 - List of documents (only visible when email is verified)
 - Profile screen displaying user data
 - User profile update
@@ -17,9 +16,14 @@ firebase_auth: a Flutter plugin to use Firebase Authentication for user sign-in 
 firebase_storage: a Flutter plugin to use Firebase Storage for uploading and downloading files.
 provider: a Flutter plugin for state management using the provider package.
 
-Contributions
+## Usage
+To use this app, simply clone the repository, install the dependencies with flutter pub get, and run it on your local device using flutter run.
+
+
+
+## Contributions
 Contributions are always welcome! If you have any suggestions or encounter any issues, feel free to create an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
