@@ -1,16 +1,25 @@
-# econo_app
+# Econo App
+Econo App is a mobile application built using the Flutter framework. It allows users to see documents.
 
-A new Flutter project.
+## Features
+- Login 
+- User signup
+- List of documents
+- List of documents (only visible when email is verified)
+- Profile screen displaying user data
+- User profile update
+- Signout button
 
-## Getting Started
+## Dependencies
+Flutter: a mobile app development framework for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
+cloud_firestore: a Flutter plugin to use Cloud Firestore, a flexible, scalable NoSQL cloud database to store and sync data for client- and server-side development.
+firebase_auth: a Flutter plugin to use Firebase Authentication for user sign-in and sign-up.
+firebase_storage: a Flutter plugin to use Firebase Storage for uploading and downloading files.
+provider: a Flutter plugin for state management using the provider package.
 
-This project is a starting point for a Flutter application.
+Contributions
+Contributions are always welcome! If you have any suggestions or encounter any issues, feel free to create an issue or submit a pull request.
 
-A few resources to get you started if this is your first Flutter project:
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
