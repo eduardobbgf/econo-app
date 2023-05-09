@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479058711483",
+    "project_id": "econo-app-397c6",
+    "storage_bucket": "econo-app-397c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479058711483:android:e5b016f34cbd16b751aa9e",
+        "android_client_info": {
+          "package_name": "com.example.econo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479058711483-oshaauuabk9clbtpjvne8b10491p3kg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYAjGGrwL6YgKfFWQ-RuSPEeQwS9dY58Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479058711483-oshaauuabk9clbtpjvne8b10491p3kg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

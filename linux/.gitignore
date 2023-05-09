@@ -1,0 +1,54 @@
+# IDE files
+.idea/
+.vscode/
+
+# Generated files
+*/.dart_tool/
+*/.flutter-plugins
+*/.flutter-plugins-dependencies
+*/.metadata
+*/build/
+*/ios/Flutter/Generated.xcconfig
+*/ios/Pods/
+*/ios/Runner/GeneratedPluginRegistrant.*
+
+# Local files
+.DS_Store
+.pub-cache/
+.pub/
+flutter/ephemeral
+
+# Android files
+**/android/**/gradle-wrapper.jar
+**/android/**/local.properties
+**/android/.gradle
+**/android/captures/
+
+# iOS files
+**/ios/Pods/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/App.framework/
+**/ios/Flutter/app.flx
+**/ios/Flutter/engine/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/gen_snapshot/
+**/ios/Flutter/podhelper.rb
+**/ios/Flutter/Flutter-Debug.xcconfig
+**/ios/Flutter/Flutter-Release.xcconfig
+**/ios/Flutter/Debug.xcconfig
+**/ios/Flutter/Release.xcconfig
+**/ios/Flutter/trace.*
+**/ios/Flutter/ipa.*
+
+# Other files
+*.iml
+*.lock
+*.log
+*.pid
+*.rst
+*.sh
+*.yaml
+*.yml
